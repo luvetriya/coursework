@@ -96,6 +96,7 @@ position: relative;
 
 }
 .btn-nav {
+	max-width: 60px;
 	outline: none;
 }
 .btn-nav img {
